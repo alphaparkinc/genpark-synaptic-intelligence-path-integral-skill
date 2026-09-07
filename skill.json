@@ -1,0 +1,14 @@
+{
+  "name": "genpark-synaptic-intelligence-path-integral-skill",
+  "version": "1.0.0",
+  "description": "Synaptic Intelligence (SI) online path integral parameter importance engine.",
+  "author": "GenPark AI",
+  "license": "Apache-2.0",
+  "dependencies": [],
+  "keywords": [
+    "synaptic-intelligence",
+    "path-integral",
+    "parameter-importance",
+    "continual-learning"
+  ]
+}
